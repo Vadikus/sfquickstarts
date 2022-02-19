@@ -113,6 +113,7 @@ Negative
 : **Worksheets vs the UI**
 Most of the exercises in this lab are executed using pre-written SQL within this worksheet to save time. These tasks can also be done via the UI, but would require navigating back-and-forth between multiple UI tabs.
 
+For the next step click **Home** icon at the top left coner of your screen. 
 
 #### Dashboards
 
